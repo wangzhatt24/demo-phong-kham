@@ -1,0 +1,298 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Bepop\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-17 14:19+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#: functions.php:38
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:39
+msgid "Secondary Menu"
+msgstr ""
+
+#: functions.php:40
+msgid "User Menu"
+msgstr ""
+
+#: functions.php:41
+msgid "Before Login Menu"
+msgstr ""
+
+#: functions.php:42
+msgid "After Login Menu"
+msgstr ""
+
+#: 404.php:14
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: 404.php:23
+msgid "Back to homepage"
+msgstr ""
+
+#: comments.php:26
+msgid "One comment"
+msgstr ""
+
+#: comments.php:28
+#, php-format
+msgid "%s comments"
+msgstr ""
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr ""
+
+#: search.php:16
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: single.php:24
+msgid "Next Post"
+msgstr ""
+
+#: single.php:25
+msgid "Next post:"
+msgstr ""
+
+#: single.php:27
+msgid "Previous Post"
+msgstr ""
+
+#: single.php:28
+msgid "Previous post:"
+msgstr ""
+
+#: easy-digital-downloads/edd.php:19
+msgid "Saved cart"
+msgstr ""
+
+#: easy-digital-downloads/edd.php:19
+#, php-format
+msgid "You have a saved cart, <a href=\"%s\">click here</a> to restore it."
+msgstr ""
+
+#: easy-digital-downloads/edd.php:27
+msgid "Billing Address"
+msgstr ""
+
+#: easy-digital-downloads/edd.php:28
+msgid "Line 1"
+msgstr ""
+
+#: easy-digital-downloads/edd.php:29
+msgid "Line 2"
+msgstr ""
+
+#: easy-digital-downloads/edd.php:30
+msgid "City"
+msgstr ""
+
+#: easy-digital-downloads/edd.php:31
+msgid "Zip / Postal Code"
+msgstr ""
+
+#: easy-digital-downloads/edd.php:32
+msgid "Country"
+msgstr ""
+
+#: easy-digital-downloads/edd.php:33
+msgid "State"
+msgstr ""
+
+#: includes/template-customize.php:99
+msgid "Hide Page title"
+msgstr ""
+
+#: includes/template-customize.php:100
+msgid "Disable Ajax"
+msgstr ""
+
+#: includes/template-customize.php:102
+msgid "Featured image vertical position"
+msgstr ""
+
+#: includes/template-customize.php:104
+msgid "Sidebar"
+msgstr ""
+
+#: includes/template-customize.php:105
+msgid "Footer"
+msgstr ""
+
+#: includes/template-customize.php:113
+msgid "Advanced"
+msgstr ""
+
+#: includes/template-customize.php:154
+msgid "Color & Layout"
+msgstr ""
+
+#: includes/template-customize.php:167
+msgid "Layout"
+msgstr ""
+
+#: includes/template-customize.php:182
+msgid "Theme"
+msgstr ""
+
+#: includes/template-customize.php:196
+msgid "Primary color"
+msgstr ""
+
+#: includes/template-customize.php:205
+msgid "Additional JS"
+msgstr ""
+
+#: includes/template-customize.php:224
+msgid "Pages"
+msgstr ""
+
+#: includes/template-customize.php:236
+msgid "Page animate"
+msgstr ""
+
+#: includes/template-customize.php:250
+msgid "Footer page"
+msgstr ""
+
+#: includes/template-customize.php:265
+msgid "Sidebar page"
+msgstr ""
+
+#. 1: SVG icon. 2: post author, only visible to screen readers. 3: author link.
+#: includes/template-tags.php:42
+msgid "Posted by"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers.
+#: includes/template-tags.php:59
+#, php-format
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: includes/template-tags.php:71 includes/template-tags.php:89
+msgid ", "
+msgstr ""
+
+#. 1: SVG icon. 2: posted in label, only visible to screen readers. 3: list of tags.
+#: includes/template-tags.php:77
+msgid "Tags:"
+msgstr ""
+
+#. 1: SVG icon. 2: posted in label, only visible to screen readers. 3: list of categories.
+#: includes/template-tags.php:95
+msgid "Posted in"
+msgstr ""
+
+#: includes/template-tags.php:141
+msgid "Edit"
+msgstr ""
+
+#: includes/template-tags.php:194
+msgid "Newer posts"
+msgstr ""
+
+#: includes/template-tags.php:198
+msgid "Older posts"
+msgstr ""
+
+#: includes/template-tags.php:241
+msgid "Featured"
+msgstr ""
+
+#: includes/template-tags.php:250 templates/template-sidebar.php:38
+msgid "Pages:"
+msgstr ""
+
+#. Name of the template
+msgid "Template::Light"
+msgstr ""
+
+#. Name of the template
+msgid "Template::Dark"
+msgstr ""
+
+#. Name of the template
+msgid "Template::Sidebar"
+msgstr ""
+
+#. Name of the template
+msgid "Template::Dark App"
+msgstr ""
+
+#. Name of the template
+msgid "Template::Light App"
+msgstr ""
+
+#. Name of the template
+msgid "Template::Landing"
+msgstr ""
+
+#: templates/footer/site-footer-default.php:24
+msgid "&copy; Copyright"
+msgstr ""
+
+#: templates/content/content-single.php:29 templates/content/content.php:28
+msgid "Continue reading"
+msgstr ""
+
+#: templates/content/content-none.php:10
+msgid "Nothing Found"
+msgstr ""
+
+#: templates/content/content-none.php:19
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: templates/content/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: templates/header/site-landing.php:37 templates/header/site-navbar.php:37
+msgid "Search …"
+msgstr ""
+
+#. Name of the theme
+msgid "Bepop"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"A responsive music WordPress theme, Manage audio, album, genres, artist and "
+"sell the audio files to customer."
+msgstr ""
+
+#. URI of the theme
+msgid "http://flatfull.com/wp/bepop/"
+msgstr ""
+
+#. Author of the theme
+msgid "Flatfull.com"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://flatfull.com/"
+msgstr ""
